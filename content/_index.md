@@ -21,7 +21,7 @@ sections:
       Aptent taciti sociosqu litora torquent et conubia sed etiam.\
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam\
       turpis mauris, ultricies erat malesuada quis.
-    title: Amet ullamcorper
+    title: Non so cosa scrivere
     type: mission
   - actions:
       - is_primary: false
