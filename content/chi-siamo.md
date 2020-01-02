@@ -9,7 +9,7 @@ menu:
     weight: 2
 layout: page
 ---
-La Paniza Academy è un progetto ben definito nato per proporre una crescita sportiva ai ragazzini, supportandoli e a livello tecnico e a livello mentale e morale. 
+La Paniza Academy è un progetto ben definito nato per proporre una crescita sportiva ai ragazzini, supportandoli a livello tecnico, mentale e morale. 
 
 La gestione delle moto è completamente affidata a [Niko moto](https://nikomoto.it/), con esperienza di oltre 20 anni nel campo delle due ruote. 
 
