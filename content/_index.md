@@ -5,7 +5,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Chi siamo
-        url: ''
+        url: chi-siamo
     component: intro.html
     content: Benvenuti nel sito web della Paniza Academy
     img_path: /images/paniza_2020.png
