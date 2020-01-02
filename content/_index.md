@@ -25,7 +25,7 @@ sections:
         is_scrolly: false
         label: Details
         url: /generic
-    component: spotlight.html
+    component: components.html
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
@@ -35,7 +35,7 @@ sections:
       Etiam tristique eu nibh.
     subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
     title: Componenti
-    type: components
+    type: spotlight
   - component: spotlight.html
     title: Duis torquent
     type: spotlight
