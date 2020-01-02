@@ -12,6 +12,6 @@ La Paniza Academy è un progetto ben definito nato per proporre una crescita spo
 
 La gestione delle moto è completamente affidata a [Niko moto](https://nikomoto.it/), con esperienza di oltre 20 anni nel campo delle due ruote. 
 
-I piloti sono seguiti tecnicamente da Francesco Ciola, istruttore federale che usa esperienza personali sommate a uno studio approfondito del gesto atletico e fisico necessario nel motocross. Francesco è anche istruttore fitness in modo tale da poter dare dritte e suggerimenti sul mantenimento fisiologico di uno sportivo.
+I piloti sono seguiti tecnicamente da Francesco Ciola, istruttore federale che usa esperienze personali sommate a uno studio approfondito del gesto atletico e fisico necessario nel motocross. Francesco è anche istruttore fitness in modo tale da poter dare dritte e suggerimenti sul mantenimento fisiologico di uno sportivo.
 
 La Paniza Academy ha creato un gruppo professionale ma allo stesso tempo amichevole, un'alchimia di cose che difficilmente si trovano da altre parti.
