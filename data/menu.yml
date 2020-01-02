@@ -1,5 +1,5 @@
 actions:
   - is_primary: true
     is_scrolly: false
-    label: Chi siamo
-    url: chi-siamo
+    label: Sponsor
+    url: sponsor
