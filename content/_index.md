@@ -35,7 +35,7 @@ sections:
       Etiam tristique eu nibh.
     subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
     title: Componenti
-    type: spotlight
+    type: components
   - component: spotlight.html
     title: Duis torquent
     type: spotlight
