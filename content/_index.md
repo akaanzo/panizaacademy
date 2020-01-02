@@ -14,14 +14,11 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
-        url: /generic
+        label: Sponsor
+        url: sponsor
     component: mission.html
-    content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.\
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam\
-      turpis mauris, ultricies erat malesuada quis.
-    title: Non so cosa scrivere
+    content: Un grazie particolare va alle persone che supportano il progetto.
+    title: Sponsor
     type: mission
   - actions:
       - is_primary: false
