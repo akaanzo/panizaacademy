@@ -33,9 +33,10 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu\
-      litora torquent et conubia etiam nostra.
+    subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
+    title: Componenti
+    type: spotlight
+  - component: spotlight.html
     title: Duis torquent
     type: spotlight
 menu:
