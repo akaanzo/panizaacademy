@@ -1,5 +1,5 @@
 ---
-title: Francesco Ciola
+title: Matteo Minneci
 subtitle: Lorem Ipsum Bla Bla Bla
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
   rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia
