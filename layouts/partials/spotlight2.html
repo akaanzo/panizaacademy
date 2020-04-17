@@ -5,17 +5,17 @@
             <h2>{{ .section.title }}</h2>
             {{ partial "markdownify-block" .section.subtitle }}
         </header>
-        {{ range $post := ((.Site.GetPage "section" "/persone").Pages).ByDate.Reverse }}
+        {{ range $post2 := ((.Site.GetPage "section" "/persone").Pages).ByDate.Reverse }}
             <section class="spotlight">
-                <span class="image"><img src="{{ $post.Params.img_path | relURL }}" alt="" /></span>
+                <span class="image"><img src="{{ $post2.Params.img_path | relURL }}" alt="" /></span>
                 <div class="content">
                     <header>
-                        <h3>{{ $post.Title }}</h3>
+                        <h3>{{ $post2.Title }}</h3>
                     </header>
-                    {{ partial "markdownify-block" $post.Params.excerpt }}
+                    {{ partial "markdownify-block" $post2.Params.excerpt }}
                     <footer>
                         <ul class="actions">
-                            <li><a href="{{ $post.URL }}" class="button">{{ $post.Params.post_button_label }}</a></li>
+                            <li><a href="{{ $post2.URL }}" class="button">{{ $post2.Params.post2_button_label }}</a></li>
                         </ul>
                     </footer>
                 </div>
