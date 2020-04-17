@@ -1,10 +1,10 @@
 ---
-title: Other
+title: Matteo Franzoi
 subtitle: Prova
 excerpt: Prova
 img_path: images/pic04.jpg
 post_button_label: Details
-date: 2017-04-01
+date: 2017-04-01T00:00:00.000Z
 layout: page
 ---
 
