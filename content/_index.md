@@ -20,11 +20,7 @@ sections:
     content: Un grazie particolare va alle persone che supportano il progetto.
     title: Sponsor
     type: mission
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Details
-        url: /generic
+  - actions: []
     component: components.html
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
