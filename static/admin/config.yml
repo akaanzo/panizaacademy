@@ -420,6 +420,67 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: spotlight
+              - name: spotlight2
+                widget: object
+                label: Spotlight2 Section
+                fields:
+                  - widget: markdown
+                    name: content
+                    label: Section Content
+                    required: false
+                    hint: The text displayed as section content
+                  - widget: list
+                    name: actions
+                    label: Section Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Button Label
+                        required: true
+                        hint: The text displayed inside the button
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+                      - widget: boolean
+                        name: is_scrolly
+                        label: Is Scrolly
+                        required: false
+                        default: false
+                        hint: >-
+                          Gives the button a scroll animation (if the button URL
+                          is a section ID)
+                      - widget: boolean
+                        name: is_primary
+                        label: Is Primary
+                        required: false
+                        default: false
+                        hint: Gives the button a primary color scheme
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: true
+                    default: Duis torquent
+                    hint: The bold text displayed at the top of the section
+                  - widget: markdown
+                    name: subtitle
+                    label: Section Subtitle
+                    required: false
+                    hint: The text displayed below the section title
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: spotlight2.html
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: spotlight2
               - name: mission
                 widget: object
                 label: Mission Section
