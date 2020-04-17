@@ -26,8 +26,7 @@ sections:
         label: Details
         url: /generic
     component: components.html
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
       conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
@@ -37,7 +36,7 @@ sections:
     title: Componenti
     type: spotlight
   - component: spotlight.html
-    title: Duis torquent
+    title: Piloti
     type: spotlight
 menu:
   main:
@@ -45,4 +44,3 @@ menu:
     weight: 1
 layout: home
 ---
-
