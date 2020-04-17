@@ -22,12 +22,7 @@ sections:
     type: mission
   - actions: []
     component: components.html
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+    content: ""
     subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
     title: Componenti
     type: spotlight
