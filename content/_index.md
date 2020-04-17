@@ -29,6 +29,9 @@ sections:
   - component: spotlight.html
     title: Piloti
     type: spotlight
+  - type: features
+    title: Ipsum malesuada
+    component: features.html
 menu:
   main:
     name: Home
