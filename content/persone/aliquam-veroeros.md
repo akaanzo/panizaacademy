@@ -1,11 +1,11 @@
 ---
-title: Francesco Ciola
+title: Matteo Minneci
 subtitle: Lorem Ipsum Bla Bla Bla
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
   rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia
   nostra, per inceptos himenaeos magna fames ac turpis egestas amet non lorem
   amet.
-img_path: images/pic02.jpg
+img_path: /images/pic03.jpg
 post_button_label: Details
 date: 2017-04-03T00:00:00.000Z
 layout: page
