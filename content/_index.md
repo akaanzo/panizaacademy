@@ -26,6 +26,9 @@ sections:
     subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
     title: Componenti
     type: spotlight
+  - component: spotlight2.html
+    title: Componenti
+    type: spotlight
   - component: spotlight.html
     title: Piloti
     type: spotlight
