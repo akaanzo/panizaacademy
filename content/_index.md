@@ -32,6 +32,15 @@ sections:
   - type: features
     title: Ipsum malesuada
     component: features.html
+    symbol_display: []
+    subtitle: |-
+      Loremasokfnojasnfjknas lkfnaskdnkjasndlkjns alknlkdnklsajd aksdkas kd
+
+      askdoask
+
+      dlas
+
+       djspalkd
 menu:
   main:
     name: Home
