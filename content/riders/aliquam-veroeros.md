@@ -8,7 +8,6 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
 img_path: images/pic02.jpg
 post_button_label: Details
 date: 2017-04-03T00:00:00.000Z
-menu:
 layout: page
 ---
 
