@@ -33,6 +33,6 @@ menu:
   main:
     name: Home
     weight: 1
-    identifier: Componenti
+    identifier: ""
 layout: home
 ---
