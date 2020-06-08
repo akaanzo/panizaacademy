@@ -26,9 +26,6 @@ sections:
     subtitle: Questi sono i nostri piloti
     title: Riders
     type: spotlight
-  - type: spotlight2
-    title: Componenti
-    component: spotlight2.html
 menu:
   main:
     name: Home
