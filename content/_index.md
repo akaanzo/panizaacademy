@@ -20,15 +20,15 @@ sections:
     content: Un grazie particolare va alle persone che supportano il progetto.
     title: Sponsor
     type: mission
-  - type: spotlight2
-    title: Componenti
-    component: spotlight2.html
   - actions: []
     component: components.html
     content: ""
-    subtitle: Di seguito sono elencati i componenti che fanno parte della Paniza Academy
-    title: Componenti
+    subtitle: Questi sono i nostri piloti
+    title: Riders
     type: spotlight
+  - type: spotlight2
+    title: Componenti
+    component: spotlight2.html
 menu:
   main:
     name: Home
