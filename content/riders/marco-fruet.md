@@ -11,7 +11,6 @@ layout: page
 * categoria: cadetti
 * campione regionale 2019 categoria cadetti
 * KTM 65cc
-* primo anno di gare
 * piloti preferiti: 
 
   * Herlings
