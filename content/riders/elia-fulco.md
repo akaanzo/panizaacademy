@@ -3,7 +3,7 @@ title: Elia Fulco
 subtitle: ""
 excerpt: Lui è Elia
 img_path: /images/elia.jpg
-post_button_label: Conoscilo meglio
+post_button_label: Scopri di più
 date: 2020-06-08T12:15:38.003Z
 layout: page
 ---
