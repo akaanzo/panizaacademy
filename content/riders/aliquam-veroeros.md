@@ -8,7 +8,7 @@ date: 2020-06-07T22:00:00.000Z
 layout: page
 ---
 * classe 2012
-* categoria: debuttante
+* categoria: debuttanti
 * KTM 65cc
 * primo anno di gare
-* pilota preferito Gajser
+* pilota preferito: Gajser
