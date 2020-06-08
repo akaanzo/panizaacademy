@@ -3,7 +3,7 @@ title: Gioele Andriollo
 subtitle: ""
 excerpt: Lui è Gioele
 img_path: /images/gioele.jpg
-post_button_label: Leggi di più
+post_button_label: Conoscilo meglio
 date: 2020-06-07T22:00:00.000Z
 layout: page
 ---
